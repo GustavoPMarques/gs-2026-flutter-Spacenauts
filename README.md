@@ -10,7 +10,7 @@
 Para entender a arquitetura de transição e o mapeamento de rotas do aplicativo nesta versão, veja o diagrama de fluxo abaixo:
 
 <p align="center">
-  <img src="prints-flutter/navegacao-flutter.png" alt="Fluxo de Navegação Figma" width="300px"/>
+  <img src="" alt="Fluxo de Navegação Figma" width="300px"/>
 </p>
 
 ---
